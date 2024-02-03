@@ -1,0 +1,12 @@
+﻿  ai.cpp
+C:\Users\obrie\source\repos\ChessGame\ChessGame\ai.cpp(8,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  board.cpp
+  gui.cpp
+  main.cpp
+C:\Users\obrie\source\repos\ChessGame\ChessGame\main.cpp(44,25): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+C:\Users\obrie\source\repos\ChessGame\ChessGame\main.cpp(46,21): warning C4244: '=': conversion from 'time_t' to 'unsigned long', possible loss of data
+C:\Users\obrie\source\repos\ChessGame\ChessGame\main.cpp(53,25): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+C:\Users\obrie\source\repos\ChessGame\ChessGame\main.cpp(55,21): warning C4244: '=': conversion from 'time_t' to 'unsigned long', possible loss of data
+  move.cpp
+  Generating Code...
+  ChessGame.vcxproj -> C:\Users\obrie\source\repos\ChessGame\x64\Debug\ChessGame.exe
